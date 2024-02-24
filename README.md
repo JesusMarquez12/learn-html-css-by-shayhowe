@@ -1,0 +1,1 @@
+This repository is a step-by-step replication of the webpage example build in the [shayhowe tutorial](https://learn.shayhowe.com/html-css/). Made for reference and quick search.
